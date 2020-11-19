@@ -1,0 +1,38 @@
+500
+##start
+B 0 1
+a 0 2
+d 0 3
+b 0 4
+e 0 5
+f 0 6
+c 0 7
+g 0 8
+h 0 9
+i 0 10
+j 0 11
+k 0 12
+l 0 13
+m 0 14
+##end
+E 0 15
+a-b
+a-e
+b-c
+b-f
+b-g
+f-B
+g-h
+g-i
+i-h
+h-B
+i-j
+j-m
+m-E
+j-k
+m-l
+l-k
+k-B
+k-e
+c-d
+d-e
